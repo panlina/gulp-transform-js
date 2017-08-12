@@ -1,0 +1,7 @@
+{
+  "name": "gulp-transform-js",
+  "version": "0.0.0",
+  "dependencies": {
+    "transform-js": "git+https://github.com/panlina/transform-js.git"
+  }
+}
